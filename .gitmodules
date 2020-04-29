@@ -2,3 +2,7 @@
 	path = l10n-romania
 	url = https://github.com/OCA/l10n-romania.git
 	branch = 13.0
+[submodule "mollie-odoo"]
+	path = mollie-odoo
+	url = https://github.com/mollie/mollie-odoo.git
+	branch = 13.0
